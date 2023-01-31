@@ -35,7 +35,7 @@ function discountCalculate(numbers) {
 
 }
 
-const ticketNumbers = 500;
+const ticketNumbers = 120;
 
 const getDiscount = discountCalculate(ticketNumbers);
 console.log(getDiscount);
